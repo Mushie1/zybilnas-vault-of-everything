@@ -11,9 +11,9 @@
     "systems": {
       "id": "dnd5e",
       "type": "system",
-      "manifest": "https://github.com/foundryvtt/dnd5e/releases/download/release-3.0.0/system.json",
+      "manifest": "https://raw.githubusercontent.com/foundryvtt/dnd5e/master/system.json",
       "compatibility": {
-        "minimum": "3.0.4"
+        "minimum": "3.1.2"
       }
     }}],
 	"authors": [
