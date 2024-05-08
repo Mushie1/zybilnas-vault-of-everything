@@ -7,8 +7,8 @@ The module is packed as an Adventure compendium for easy installion.
 
 ## Changelog
 Version 1.0.0: 8th May 2024
--Initial Release - V11
--Verified on V12
+Initial Release - V11
+Verified on V12
 
 ## Preview
 **Adventure Compendium**
