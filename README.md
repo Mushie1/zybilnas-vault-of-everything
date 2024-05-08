@@ -6,7 +6,7 @@ It is a collection of new ideas, items, feats, backgrounds, spells to assist in 
 The module is packed as an Adventure compendium for easy installion.
 
 ## Changelog
-Version 1.0.0: 08th May 2024
+Version 1.0.0: 8th May 2024
 -Initial Release - V11
 -Verified on V12
 
