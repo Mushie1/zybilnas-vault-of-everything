@@ -1,0 +1,5 @@
+2024/05/08-16:21:11.955 b3c8 Recovering log #543
+2024/05/08-16:21:11.957 b3c8 Level-0 table #545: started
+2024/05/08-16:21:12.125 b3c8 Level-0 table #545: 537203 bytes OK
+2024/05/08-16:21:12.144 b3c8 Delete type=0 #543
+2024/05/08-16:21:12.145 b3c8 Delete type=3 #541
