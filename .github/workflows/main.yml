@@ -119,6 +119,8 @@ jobs:
             module.json                          \
             README.md                            \
             LICENSE                              \
+            art/                                 \
+            screen-grabs/                        \
             templates                            \
             scripts/                             \
             styles/                              \
