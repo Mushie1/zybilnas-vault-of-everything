@@ -3,7 +3,7 @@
 This Foundry VTT module is a collection of original works from the users of *The Wild Beyond the Witchlight* discord server.
 It provides new ideas, items, feats, backgrounds, spells, subclasses and encounters to assist in the running your adventure in the feywild.
 
-The module is packed as an Adventure compendium for easy installion.
+The module is packed as an Adventure compendium for easy installation.
 
 ## Changelog
 Version 1.0.0: 8th May 2024 \
