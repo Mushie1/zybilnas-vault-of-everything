@@ -1,7 +1,7 @@
 # Zybilna's Vault of Everything
 
-This Foundry VTT module is a collection of works from the users of *The Wild Beyond the Witchlight* discord server.
-It is a collection of new ideas, items, feats, backgrounds, spells to assist in running your adventure in the feywild.
+This Foundry VTT module is a collection of original works from the users of *The Wild Beyond the Witchlight* discord server.
+It provides new ideas, items, feats, backgrounds, spells, subclasses and encounters to assist in the running your adventure in the feywild.
 
 The module is packed as an Adventure compendium for easy installion.
 
