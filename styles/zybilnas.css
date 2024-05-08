@@ -1,0 +1,161 @@
+/* Variable Definitions */
+.mushie-mymodule {
+  --mymodule-red: #5e0000;
+  --h1-font-size: 2.25 rem;
+  --h2-font-size: 1.6 rem;
+  --h3-font-size: 1.2 rem;
+}
+/* Headers */
+.mushie-mymodule .journal-page-content h1 {
+  /*font-family: var(--h1-font);*/
+  font-size: var(--h1-font-size);
+  color: var(--mymodule-red);
+}
+.mushie-mymodule .journal-page-content h2 {
+  /*font-family: var(--h2-font);*/
+  font-size: var(--h1-font-size);
+  color: var(--mymodule-red);
+}
+
+/* Variable Definitions */
+.mushie-zybilnas {
+  --cursed-red: #5e0000;
+  --h1-font-size: 2.25 rem;
+  --h2-font-size: 1.6 rem;
+  --h3-font-size: 1.2 rem;
+}
+/* Headers */
+.mushie-zybilnas .journal-page-content h1 {
+  /*font-family: var(--heading-title-font);*/
+  font-size: var(--heading-title-font-size);
+  color: var(--cursed-red);
+  /*border-bottom: var(--heading-title-border-bottom);*/
+  /*border-image: var(--heading-title-border-image);*/
+  /*text-align: center;*/
+}
+.mushie-zybilnas .journal-page-content h2 {
+  /*font-family: var(--heading-title-font);*/
+  font-size: var(--heading-title-font-size);
+  color: var(--cursed-red);
+  /*border-bottom: var(--heading-title-border-bottom);*/
+  /*border-image: var(--heading-title-border-image);*/
+  /*text-align: center;*/
+}
+/* Blocks */
+
+.mushie-block {
+  border-radius: 10px;
+  padding: 1em;
+  margin: 0.5em 0.5em 1em 0;
+  box-shadow: 0.5em 0.5em 0.25em #00000050;
+  color: white;
+  background-repeat: repeat!important;
+}
+
+.mushie-block.Grey {
+  background-image: linear-gradient(
+      0,
+      hsla(0, 0%, 45%, 60%),
+      hsla(0, 0%, 65%, 70%)
+    ),
+    url(/ui/parchment-white.jpg);
+  color: black;
+}
+
+.mushie-block.Grey-blue {
+  background-image: linear-gradient(
+      0,
+      hsla(208, 42%, 42%, 60%),
+      hsla(221, 52%, 62%, 20%)
+    ),
+    url(/ui/parchment-white.jpg);
+  color: black;
+}
+
+.mushie-block.Green {
+  background-image: linear-gradient(
+      0,
+      hsla(108, 92%, 53%, 30%),
+      hsla(119, 56%, 52%, 20%)
+    ),
+    url(/ui/parchment-white.jpg);
+  color: black;
+}
+
+.mushie-block.Greentwo {
+  background-image: linear-gradient(
+      0,
+      hsla(108, 92%, 53%, 30%),
+      hsla(119, 56%, 52%, 20%)
+    ),
+    url(/ui/parchment-white.jpg);
+  color: black;
+}
+
+.mushie-block.DarkGreen {
+  background-image: linear-gradient(
+      0,
+      rgba(77,142,40,1) 0%,
+      rgba(72,179,12,1) 100%
+    ),
+    url(/ui/parchment-white.jpg);
+  color: black;
+}
+
+.mushie-block.Orange {
+  background-image: linear-gradient(
+      0,
+      rgb(234, 102, 50) 0%,
+      rgb(226, 130, 7) 100%
+    ),
+    url(/ui/parchment-white.jpg);
+  color: black;
+}
+
+.mushie-block.Orangetwo {
+  background-image: linear-gradient(
+      0,
+      rgb(232, 148, 60) 0%,
+      rgb(228, 132, 60) 100%
+    ),
+    url(/ui/parchment-white.jpg);
+  color: black;
+}
+
+.mushie-block.Mustard {
+  background-image: linear-gradient(
+      0,
+      rgba(224,212,180,1) 100%,
+      rgba(186,180,17,1) 0%
+    ),
+    url(/ui/parchment-white.jpg);
+  color: black;
+}
+
+.mushie-block.Sidebar {
+  background-image: linear-gradient(
+      0,
+      hsla(0, 0%, 45%, 80%),
+      hsla(0, 0%, 45%, 80%)
+    ),
+    url(/ui/parchment-white.jpg);
+  color: black;
+}
+
+/* Fonts */
+@font-face {
+  font-family: "FogleHunter";
+  src: url("../styles/fonts/fogleHunter.woff2") format('woff2');
+  font-weight: 800;
+  font-style: normal;
+}
+
+.zybilnas-vault-of-everything,
+.adventure-importer {
+--h1-font: "FogleHunter", sans-serif;
+}
+
+.zybilnas-vault-of-everything section.window-content h1,
+.adventure-importer h1 {
+  font-family: var(--h1-font);
+}
