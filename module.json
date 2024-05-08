@@ -1,8 +1,8 @@
 {
   "id": "zybilnas-vault-of-everything",
   "title": "Zybilna's Vault of Everything",
-  "description": " <p><em>Zybilna's Vault of Everything</em> is a collection of Fey inspired additions to The Wild Beyond the Witchlight publication. </p><p>This collection is original work from contributors of the WBtW discord server.</p>",
-  "version": "1.0.0",
+  "description": " <p><em>Zybilna's Vault of Everything</em> is a collection of Fey inspired additions to The Wild Beyond the Witchlight publication.</p><p>This collection is original work from contributors of the WBtW discord server.</p>",
+  "version": "#{VERSION}#",
   "compatibility": {
     "minimum": 11.315,
     "verified": 12
@@ -21,7 +21,8 @@
       "name": "WBtW Discord"
     },
 	{
-      "name": "Mushie"
+      "name": "Mushie",
+      "discord": "Discord mushieme"
     }
 	],
 	"media": [
@@ -29,25 +30,25 @@
             "type": "cover",
             "url": "modules/zybilnas-vault-of-everything/screen-grabs/banner.jpg"
         },
-		{
+	{
             "type": "screenshot",
             "url": "modules/zybilnas-vault-of-everything/screen-grabs/items.jpg"
         },
-    {
-          "type": "screenshot",
-          "url": "modules/zybilnas-vault-of-everything/screen-grabs/actors.jpg"
-      },
-		{
+        {
+            "type": "screenshot",
+            "url": "modules/zybilnas-vault-of-everything/screen-grabs/actors.jpg"
+        },
+	{
             "type": "screenshot",
             "url": "modules/zybilnas-vault-of-everything/screen-grabs/journal.jpg"
         },
-    {
-          "type": "screenshot",
-          "url": "modules/zybilnas-vault-of-everything/screen-grabs/scene.jpg"
-      },
-		{
+        {
+            "type": "screenshot",
+            "url": "modules/zybilnas-vault-of-everything/screen-grabs/scene.jpg"
+        },
+	{
             "type": "setup",
-			      "caption": "Zybilna's Vault of Everything",
+	    "caption": "Zybilna's Vault of Everything",
             "thumbnail": "modules/zybilnas-vault-of-everything/screen-grabs/banner.jpg"
         }
   ],
