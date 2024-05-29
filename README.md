@@ -5,6 +5,8 @@ It provides new ideas, items, feats, backgrounds, spells, subclasses and encount
 
 The module is packed as an Adventure compendium for easy installation.
 
+Note: Zybilna's Vault of Everything is unofficial Fan Content permitted under the Fan Content Policy. Not approved/endorsed by Wizards. Portions of the materials used are property of Wizards of the Coast. ©Wizards of the Coast LLC
+
 ## Preview
 **Adventure Compendium**
 ![Adventure Compendium](/screen-grabs/scene.jpg)
