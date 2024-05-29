@@ -19,10 +19,10 @@ The module is packed as an Adventure compendium for easy installation.
 ![Roll Tables](/screen-grabs/roll-tables.jpg)
 
 ## Changelog
-Version 1.0.1: 29th May 2024 \
-- Fan content note added to Readme.md and to Intro Journal \
+Version 1.0.1: 29th May 2024 
+- Fan content note added to Readme.md and to Intro Journal 
 
 
 Version 1.0.0: 8th May 2024 \
--Initial Release - V11 \
--Verified on V12
+- Initial Release - V11 \
+- Verified on V12
