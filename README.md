@@ -5,11 +5,6 @@ It provides new ideas, items, feats, backgrounds, spells, subclasses and encount
 
 The module is packed as an Adventure compendium for easy installation.
 
-## Changelog
-Version 1.0.0: 8th May 2024 \
--Initial Release - V11 \
--Verified on V12
-
 ## Preview
 **Adventure Compendium**
 ![Adventure Compendium](/screen-grabs/scene.jpg)
@@ -22,3 +17,12 @@ Version 1.0.0: 8th May 2024 \
 ![Races](/screen-grabs/races.jpg)
 
 ![Roll Tables](/screen-grabs/roll-tables.jpg)
+
+## Changelog
+Version 1.0.1: 29th May 2024 \
+- Fan content note added to Readme.md and to Intro Journal \
+
+
+Version 1.0.0: 8th May 2024 \
+-Initial Release - V11 \
+-Verified on V12
