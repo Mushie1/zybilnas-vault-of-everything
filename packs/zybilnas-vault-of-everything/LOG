@@ -1,0 +1,5 @@
+2024/05/29-11:06:15.765 13bc Recovering log #577
+2024/05/29-11:06:15.767 13bc Level-0 table #579: started
+2024/05/29-11:06:15.816 13bc Level-0 table #579: 178872 bytes OK
+2024/05/29-11:06:15.826 13bc Delete type=0 #577
+2024/05/29-11:06:15.826 13bc Delete type=3 #575
