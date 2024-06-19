@@ -64,7 +64,6 @@
   "styles": [
     "./styles/zybilnas.css"
   ],
-  "manifestPlusVersion": "1.2.0",
   "url": "#{URL}#",
   "manifest": "#{MANIFEST}#",
   "download": "#{DOWNLOAD}#",
